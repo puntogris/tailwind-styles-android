@@ -44,6 +44,6 @@ allprojects {
 In your app build.gradle add the dependency
 ```gradle
 dependencies {
-    implementation 'com.github.puntogris:tailwind-styles-android:1.0'
+    implementation 'com.github.puntogris:tailwind-styles-android:1.1.0'
 }
 ```
