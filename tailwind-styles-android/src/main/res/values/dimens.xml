@@ -1,14 +1,20 @@
 <resources>
     <dimen name="spacing_0">0dp</dimen>
+    <dimen name="spacing">1dp</dimen>
+    <dimen name="spacing_0_5">2dp</dimen>
     <dimen name="spacing_1">4dp</dimen>
+    <dimen name="spacing_1_5">6dp</dimen>
     <dimen name="spacing_2">8dp</dimen>
+    <dimen name="spacing_2_5">10dp</dimen>
     <dimen name="spacing_3">12dp</dimen>
+    <dimen name="spacing_3_5">14dp</dimen>
     <dimen name="spacing_4">16dp</dimen>
     <dimen name="spacing_5">20dp</dimen>
     <dimen name="spacing_6">24dp</dimen>
     <dimen name="spacing_7">28dp</dimen>
     <dimen name="spacing_8">32dp</dimen>
     <dimen name="spacing_9">36dp</dimen>
+    <dimen name="spacing_10">40dp</dimen>
     <dimen name="spacing_11">44dp</dimen>
     <dimen name="spacing_12">48dp</dimen>
     <dimen name="spacing_14">56dp</dimen>
@@ -31,7 +37,7 @@
 
     <dimen name="text_xs">10sp</dimen>
     <dimen name="text_sm">12sp</dimen>
-    <dimen name="text_base">14sp</dimen>
+    <dimen name="text">14sp</dimen>
     <dimen name="text_md">16sp</dimen>
     <dimen name="text_lg">18sp</dimen>
     <dimen name="text_xl">20sp</dimen>
@@ -46,7 +52,7 @@
 
     <dimen name="rounded_none">0dp</dimen>
     <dimen name="rounded_sm">2dp</dimen>
-    <dimen name="rounded_base">4dp</dimen>
+    <dimen name="rounded">4dp</dimen>
     <dimen name="rounded_md">6dp</dimen>
     <dimen name="rounded_lg">8dp</dimen>
     <dimen name="rounded_xl">12dp</dimen>
@@ -55,7 +61,7 @@
     <dimen name="rounded_full">9999dp</dimen>
 
     <dimen name="border_0">0dp</dimen>
-    <dimen name="border_base">1dp</dimen>
+    <dimen name="border">1dp</dimen>
     <dimen name="border_2">2dp</dimen>
     <dimen name="border_4">4dp</dimen>
     <dimen name="border_8">8dp</dimen>
